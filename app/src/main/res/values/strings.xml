@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lottery</string>
+    <string name="good_luck">Good Luck</string>
+    <string name="name">Name</string>
+    <string name="number_tips">Enter a number between 6 and 15.</string>
+    <string name="btn_send">Number Generate</string>
+</resources>
